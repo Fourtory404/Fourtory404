@@ -37,7 +37,7 @@ MSc Finance student at **Esade Business School** with a passion for quantitative
 - **Visualization**: Tableau, Excel (Advanced)
 
 ## 📊 Featured Projects
-*(Pin your best repositories and they'll show up here automatically)*
+(https://iwen-stocks-portfolio-optimizer.onrender.com)
 
 Some project ideas to showcase:
 - 📈 **Portfolio Optimization Tool** - Modern Portfolio Theory implementation
