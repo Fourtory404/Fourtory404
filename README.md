@@ -1,12 +1,14 @@
 # Hi there, I'm I-Wen Shih 👋
 
 ## 🎓 About Me
-MSc Finance student at **Esade Business School** with a passion for quantitative finance and data-driven investment strategies. Aspiring asset manager eager to leverage analytical skills and programming expertise in the financial services industry.
+Business Analyst Intern at KCC Partners, MSc Finance graduate from **Esade Business School** with a passion for quantitative finance and data-driven investment strategies. Aspiring asset manager eager to leverage analytical skills and programming expertise in the financial services industry.
 
 ## 🚀 What I'm Currently Working On
-- 🎯 Completing my Master's in Finance at Esade Business School
-- 📊 Building quantitative finance projects using Python, R, and Stata
-- 📈 Exploring portfolio optimization and risk management techniques
+- 📊 Researching and sourcing strategic and financial buyers for active mandates for
+all KCC deals
+- 📈 Assisting in the management of live transactions, including tracking deal progress and maintaining
+CRM data
+- 📁 Supporting the development of investor profiles and targeted outreach strategies
 - 🔍 Seeking opportunities in asset management and financial services
 
 ## 💼 Career Interests
