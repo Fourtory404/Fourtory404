@@ -33,7 +33,7 @@ CRM data
 - **Financial Libraries**: pandas, numpy, quantlib, tidyquant
 
 ### Tools & Platforms
-- **Databases**: SQL, Bloomberg Terminal
+- **Databases**: Bloomberg Terminal
 - **Version Control**: Git, GitHub
 - **Development**: Jupyter Notebooks, RStudio, Stata
 - **Visualization**: Tableau, Excel (Advanced)
